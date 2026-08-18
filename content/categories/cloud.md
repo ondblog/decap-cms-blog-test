@@ -1,5 +1,0 @@
----
-en:
-  name: Cloud
-ja: {}
----
